@@ -218,4 +218,5 @@ pip-log.txt
 #############
 ## Sublime text 2
 #############
-.sublime-project
+*.sublime-project
+*.sublime-workspace
