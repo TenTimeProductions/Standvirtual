@@ -117,7 +117,7 @@
             </form>
         </div>
 		<!-- related -->
-		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+		<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <div style="text-align:left; text-decoration:none;"><h3><u>Relacionado com X</u></h3></div>
             <div class="row">
         		<div class="col-md-12">
