@@ -33,5 +33,8 @@
           		$("[data-toggle='tooltip']").tooltip();
 				$("[data-toggle='popover']").popover();
 				$("time.timeago").timeago();
+      			$('.carousel').carousel({
+				  	interval: false
+				});
       		});
 		</script>
