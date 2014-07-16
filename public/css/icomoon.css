@@ -1,0 +1,82 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-vx9yyk');
+	src:url('../fonts/icomoon.eot?#iefix-vx9yyk') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-vx9yyk') format('woff'),
+		url('../fonts/icomoon.ttf?-vx9yyk') format('truetype'),
+		url('../fonts/icomoon.svg?-vx9yyk#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-home:before {
+	content: "\e60a";
+}
+.icomoon-calendar:before {
+	content: "\e60b";
+}
+.icomoon-smiley:before {
+	content: "\e600";
+}
+.icomoon-sad:before {
+	content: "\e601";
+}
+.icomoon-mute:before {
+	content: "\e602";
+}
+.icomoon-medal:before {
+	content: "\e603";
+}
+.icomoon-resize:before {
+	content: "\e60c";
+}
+.icomoon-edit:before {
+	content: "\e60d";
+}
+.icomoon-car:before {
+	content: "\e604";
+}
+.icomoon-bike:before {
+	content: "\e605";
+}
+.icomoon-truck:before {
+	content: "\e606";
+}
+.icomoon-bus:before {
+	content: "\e607";
+}
+.icomoon-bike2:before {
+	content: "\e608";
+}
+.icomoon-plane:before {
+	content: "\e609";
+}
+.icomoon-heart:before {
+	content: "\e60e";
+}
+.icomoon-star:before {
+	content: "\e60f";
+}
+.icomoon-video:before {
+	content: "\e610";
+}
+.icomoon-mail:before {
+	content: "\e611";
+}
+.icomoon-photo:before {
+	content: "\e612";
+}
