@@ -1,0 +1,51 @@
+-header.php
+-footer.php
+-menu.php
+-index.php -> pagina base com ligacoes
+
+**************
+	SNIPPETS
+**************
+
+-base.php -> pagina inicial
+-search.php -> barra lateral
+-slider_more.php -> pagina produto
+-produto_full.php
+-search.php
+
+
+Exemplo resultados
+carros.json
+	{
+		'cars': [
+			{
+				'id': 1,
+				'marca': 'Opel',
+				'modelo': 'Astra 1.7 CDTI cosmo',
+				'fuel': 'Gasóleo',
+				'extra': [
+					'4 portas', 
+					'Preto', 
+					'AirBag', 
+					'Preto',
+				],
+				'registration': {
+					'month': 6,
+					'year':  1971
+				},
+				'price': 4000,
+				'power': {
+					'CV': 50,
+					'CM3': 1100
+				},
+				'exchange': 0,
+				'enterpriese': 0,
+				'warranty': {
+					'type': 1,
+					'time': 2
+				},
+				'image': 'i.imgur.com/m7RroLm.jpg',
+				'label': 'Recente'
+			},
+		]
+	}
