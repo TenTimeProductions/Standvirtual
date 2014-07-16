@@ -26,9 +26,13 @@
 			<meta property="og:site_name" content="StandVirtual"/>
 			<meta property="og:see_also" content="StandVirtual"/>
 
+
 		<!-- GOOGLE FONT-->
 		<link href='http://fonts.googleapis.com/css?family=Parisienne|Roboto:400,300,700italic,700,500&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 		<!-- Bootstrap core CSS -->
 		<link href="public/css/bootstrap.min.css" rel="stylesheet">
 		<link href="public/css/font-awesome.min.css" rel="stylesheet">
+
+		<!-- Css de páginas -->
+		<link href="public/css/details.css" rel="stylesheet">
