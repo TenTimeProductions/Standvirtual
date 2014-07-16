@@ -1,13 +1,13 @@
 /* Main carousel style */
 .carousel {
-    width: 600px;
+    /*width: 600px;*/
 }
 
 /* Indicators list style */
 .article-slide .carousel-indicators {
     bottom: 0;
     left: 0;
-    margin-left: 5px;
+    margin-left: 110px;
     width: 100%;
 }
 /* Indicators list style */

@@ -2,7 +2,7 @@
 	<div class="container" style="margin-top:150px;">
         <div style="text-align:left; text-decoration:none;"><h3><u>Carro X</u></h3></div>
 		<!-- Img -->
-		<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
+		<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
 			<div class="carousel slide article-slide" id="article-photo-carousel">
   <!-- Wrapper for slides -->
 			  <div class="carousel-inner cont-slider">
@@ -39,7 +39,17 @@
 		</div>
 		<!-- description -->
 		<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-			
+                <div style="text-align:left; text-decoration:none;"><h3><u>Descrição Básica</u></h3></div>
+                <p>Classe: Citadino</p>
+                <p>Preço: 11.000€</p>
+                <p>Primeiro registo:    Junho 2009   (5 anos e 1 mês)</p>
+                <p>Insp. válida até:    sem indicações</p>
+                <p>Quilómetros: 54.983 km</p>
+                <p>Potência:    85 CV (1.461 cm3)</p>
+                <p>Combustível: Diesel</p>
+                <p>Cor: outra</p>
+                <p>Garantia do Stand:   24 meses Garantia do Stand</p>
+                <p>Código do Anúncio:   P7951942 Adicionar aos Favoritos</p>      
 		</div>
 		<!-- ad -->
 		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
@@ -52,14 +62,14 @@
         <!-- Contacte -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div style="text-align:left; text-decoration:none;"><h3><u>Contacte o X</u></h3></div>
-            <form class="form-horizontal">
+            <form class="form-horizontal" style="margin-top:50px;">
                 <fieldset>
 
 
                 <!-- Text input-->
                 <div class="form-group">
-                  <label class="col-md-4 control-label" for="nome">O seu Nome</label>  
-                  <div class="col-md-5">
+                  <label class="col-md-1 control-label" for="nome">O seu Nome</label>  
+                  <div class="col-md-3">
                   <input id="nome" name="nome" type="text" placeholder="Nome" class="form-control input-md" required="">
                     
                   </div>
@@ -67,15 +77,15 @@
 
                 <!-- Text input-->
                 <div class="form-group">
-                  <label class="col-md-4 control-label" for="mail">O seu email</label>  
-                  <div class="col-md-5">
+                  <label class="col-md-1 control-label" for="mail">O seu email</label>  
+                  <div class="col-md-3">
                   <input id="mail" name="mail" type="text" placeholder="E-mail" class="form-control input-md" required=""> 
                   </div>
                 </div>
 
                 <!-- Multiple Checkboxes -->
                 <div class="form-group">
-                  <label class="col-md-4 control-label" for="same"></label>
+                  <label class="col-md-1 control-label" for="same"></label>
                   <div class="col-md-4">
                   <div class="checkbox">
                     <label for="same-0">
@@ -88,11 +98,20 @@
 
                 <!-- Textarea -->
                 <div class="form-group">
-                  <label class="col-md-4 control-label" for="corpo">Descrição</label>
+                  <label class="col-md-1 control-label" for="corpo">Descrição</label>
                   <div class="col-md-4">                     
                     <textarea class="form-control" id="corpo" name="corpo">Texto a enviar para o vendedor...</textarea>
                   </div>
                 </div>
+                <!-- Button (Double) -->
+                    <div class="form-group">
+                      <label class="col-md-4 control-label" for="confir"></label>
+                      <div class="col-md-8">
+                        <button id="confir" name="confir" class="btn btn-success">Confirmar</button>
+                        <button id="reset" name="reset" class="btn btn-danger">Reset</button>
+                      </div>
+                    </div>
+
 
                 </fieldset>
             </form>
