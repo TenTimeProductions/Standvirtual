@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <?php include('info.php'); ?>
-    <?php include('footer.php'); ?>
-</body>
+    <head>
+        <?php include( 'header.php') ?>
+        <title>O seu Stand Virtual</title>
+    </head>
+    <body>
+        <div class="container">
+            <?php include( 'menu.php') ?>
+            <?php include('info.php'); ?>
+        </div>
+        <?php include( 'footer.php') ?>
+    </body>
 </html>
