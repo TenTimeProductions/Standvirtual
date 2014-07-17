@@ -9,6 +9,23 @@
 	margin-bottom: -5px;
 	box-shadow: inset 0px 0px 24px #C7C1C1;
 }
+#footer {
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    margin-bottom: -20px;
+    border-radius: 0 !important;
+    background: 
+        linear-gradient( 
+            rgba(255, 255, 255, 0.45), 
+            rgba(0, 0, 0, 0.1) 
+        );
+}
+.hr-footer{
+    margin-top: 20px;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 1px solid rgba(105, 105, 105, 0.21);
+}
 #menu-bar .navbar-fixed-top{
     box-shadow: 0 4px 10px -5px #838383;
 }
@@ -75,6 +92,13 @@
 }
 
 
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
 
 
 /**** MEDIA QUERIES ****/

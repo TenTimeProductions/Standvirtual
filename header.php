@@ -34,6 +34,7 @@
 		<link href="public/css/bootstrap.min.css" rel="stylesheet">
 		<link href="public/css/font-awesome.min.css" rel="stylesheet">
 		<link href="public/css/icomoon.css" rel="stylesheet">
+		<link href="public/css/bootstrap-social.css" rel="stylesheet">
 
 		<!-- Css de páginas -->
 		<link href="public/css/details.css" rel="stylesheet">
