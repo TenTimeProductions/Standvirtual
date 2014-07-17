@@ -1,0 +1,8 @@
+acabar footer
+search sidebar
+finalizar details.php
+
+
+criar BD com bases
+criar json com carros - 10 para cada
+criar pagina de pesquisa carros e motas 
