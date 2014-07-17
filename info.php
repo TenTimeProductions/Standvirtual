@@ -1,6 +1,7 @@
 	<div class="container info-container row">
         <div style="text-align:left; text-decoration:none;"><h3><u>Carro X</u></h3></div>
 		<!-- Img -->
+        <div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
 			<div class="carousel slide article-slide" id="article-photo-carousel">
   <!-- Wrapper for slides -->
@@ -50,24 +51,56 @@
                 <p>Garantia do Stand:   24 meses Garantia do Stand</p>
                 <p>Código do Anúncio:   P7951942 Adicionar aos Favoritos</p>      
 		</div>
-		<!-- ad -->
-		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-			
-		</div>
+    </div>
 		<!-- details -->
-		<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-			
-		</div>
+			<div class="row">
+                <div class="col-md-12">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            Mais Detalhes</h3>
+                        <span class="pull-right clickable"><i class="glyphicon glyphicon-minus"></i></span>
+                    </div>
+                    <div class="panel-body">
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                            <fieldset><!--Informação Geral-->
+                                <legend>Informação Geral</legend>
+                                <ul>
+                                    <li>GPS</li>
+                                    <li>Jantes de liga leve</li>
+                                    <li>5 Portas</li>
+                                    <li>GPS</li>
+                                    <li>GPS</li>
+                                </ul>
+                            </fieldset> <!--Informação Geral-->
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <fieldset><!--Multimédia-->
+                                <legend>Multimédia</legend>
+                            </fieldset> <!--Multimédia-->
+                        </div>
+                    </div>
+                </div>
+            </div><!-- row -->
+        </div>
         <!-- Contacte -->
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <div style="text-align:left; text-decoration:none;"><h3><u>Contacte o X</u></h3></div>
+            <div class="row">
+                <div class="col-md-8">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            Contactar</h3>
+                        <span class="pull-right clickable"><i class="glyphicon glyphicon-minus"></i></span>
+                    </div>
+                    <div class="panel-body">
+                        <div style="text-align:left; text-decoration:none;"><h3><u>Contacte o X</u></h3></div>
             <form class="form-horizontal" style="margin-top:50px;">
                 <fieldset>
 
 
                 <!-- Text input-->
                 <div class="form-group">
-                  <label class="col-md-1 control-label" for="nome">O seu Nome</label>  
+                  <label class="col-md-2 control-label" for="nome">O seu Nome</label>  
                   <div class="col-md-3">
                   <input id="nome" name="nome" type="text" placeholder="Nome" class="form-control input-md" required="">
                     
@@ -76,7 +109,7 @@
 
                 <!-- Text input-->
                 <div class="form-group">
-                  <label class="col-md-1 control-label" for="mail">O seu email</label>  
+                  <label class="col-md-2 control-label" for="mail">O seu email</label>  
                   <div class="col-md-3">
                   <input id="mail" name="mail" type="text" placeholder="E-mail" class="form-control input-md" required=""> 
                   </div>
@@ -84,8 +117,8 @@
 
                 <!-- Multiple Checkboxes -->
                 <div class="form-group">
-                  <label class="col-md-1 control-label" for="same"></label>
-                  <div class="col-md-4">
+                  <label class="col-md-2 control-label" for="same"></label>
+                  <div class="col-md-3">
                   <div class="checkbox">
                     <label for="same-0">
                       <input type="checkbox" name="same" id="same-0" value="1">
@@ -97,7 +130,7 @@
 
                 <!-- Textarea -->
                 <div class="form-group">
-                  <label class="col-md-1 control-label" for="corpo">Descrição</label>
+                  <label class="col-md-2 control-label" for="corpo">Descrição</label>
                   <div class="col-md-4">                     
                     <textarea class="form-control" id="corpo" name="corpo">Texto a enviar para o vendedor...</textarea>
                   </div>
@@ -115,6 +148,9 @@
                 </fieldset>
             </form>
         </div>
+                    </div>
+                </div>
+            </div><!-- row -->
 		<!-- related -->
 		<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <div style="text-align:left; text-decoration:none;"><h3><u>Relacionado com X</u></h3></div>
@@ -202,4 +238,4 @@
 		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
 			
 		</div>
-	</div>
+</div>

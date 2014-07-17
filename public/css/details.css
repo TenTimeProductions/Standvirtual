@@ -75,3 +75,32 @@ background: #428bca;
     margin-top: -25px;
     box-shadow: inset 0px 0px 24px #C7C1C1;
 }
+/*panels*/
+.clickable
+{
+    cursor: pointer;
+}
+
+.clickable .glyphicon
+{
+    background: rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 4px
+}
+
+.panel-heading span
+{
+    margin-top: -23px;
+    font-size: 15px;
+    margin-right: -9px;
+}
+a.clickable { color: inherit; }
+a.clickable:hover { text-decoration:none; }
+.panel-primary>.panel-heading{
+    background-color:rgba(0, 0, 0, 0.4);
+    border-style: none;
+}
+.panel{
+    border-style: none;
+}
