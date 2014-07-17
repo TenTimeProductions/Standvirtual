@@ -66,10 +66,15 @@
 		</script>
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="public/js/bootstrap.min.js"></script>
+
 		<!-- Versão base do timeago -->
 		<script src="public/plugins/jquery.timeago.js" type="text/javascript"></script>
+
 		<!-- Versão portuguesa do timeago 
 		<script src="public/jquery/jquery.timeago.pt.js" type="text/javascript"></script>-->
+
+		<!-- Versão base dos sliders -->
+		<script src="public/plugins/ion.rangeSlider.js" type="text/javascript"></script>
 
 		<script>
 			$(function () {
@@ -106,5 +111,16 @@
 					return false;
 				});
 				$('#back-to-top').tooltip('show');
+				$("#slider-price").ionRangeSlider({
+					min: 0,
+					max: 5000,
+					from: 1000,
+					to: 4000,
+					type: 'double',
+					step: 1,
+					prefix: "$",
+					prettify: true,
+					hasGrid: true
+				});
 			});
 		</script>

@@ -31,6 +31,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Parisienne|Roboto:400,300,700italic,700,500&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 		<!-- Bootstrap core CSS -->
+		<link href="public/css/normalize.min.css" rel="stylesheet">
 		<link href="public/css/bootstrap.min.css" rel="stylesheet">
 		<link href="public/css/font-awesome.min.css" rel="stylesheet">
 		<link href="public/css/icomoon.css" rel="stylesheet">
@@ -40,3 +41,7 @@
 		<link href="public/css/details.css" rel="stylesheet">
 		<link href="public/css/search_bar.css" rel="stylesheet">
 		<link href="public/css/base.css" rel="stylesheet">
+		<!-- Css de sliders ion -->
+		<link href="public/css/ion.rangeSlider.css" rel="stylesheet">
+		<link href="public/css/ion.rangeSlider.skinNice.css" rel="stylesheet">
+		

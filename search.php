@@ -11,19 +11,7 @@
 						<li><label class="tree-toggler nav-header">Header 1</label>
 							<ul class="nav nav-list tree">
 								<li><a href="#">Link</a></li>
-								<li><a href="#">Link</a></li>
-								<li><label class="tree-toggler nav-header">Header 1.1</label>
-									<ul class="nav nav-list tree">
-										<li><a href="#">Link</a></li>
-										<li><a href="#">Link</a></li>
-										<li><label class="tree-toggler nav-header">Header 1.1.1</label>
-											<ul class="nav nav-list tree">
-												<li><a href="#">Link</a></li>
-												<li><a href="#">Link</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
+								<li><<input type="text" id="slider-price" /></li>
 							</ul>
 						</li>
 						<li class="divider"></li>
