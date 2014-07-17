@@ -36,5 +36,16 @@
       			$('.carousel').carousel({
 				  	interval: false
 				});
-      		});
+				$(window).scroll(function () {
+					if ($(window).scrollTop() > 155) {
+						$('#menu-bar nav').addClass('navbar-fixed-top container');
+						$('#menu-bar-replace').addClass('menu-bar-replace-fixed');
+					}
+
+					if ($(window).scrollTop() < 156) {
+						$('#menu-bar nav').removeClass('navbar-fixed-top container');
+						$('#menu-bar-replace').removeClass('menu-bar-replace-fixed');
+					}
+				});
+			});
 		</script>

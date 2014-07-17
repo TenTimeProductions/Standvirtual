@@ -1,5 +1,4 @@
-
-	<div class="container">
+	<div class="container info-container row">
         <div style="text-align:left; text-decoration:none;"><h3><u>Carro X</u></h3></div>
 		<!-- Img -->
 		<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">

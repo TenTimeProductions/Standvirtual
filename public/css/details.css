@@ -67,3 +67,11 @@ body{padding-top:20px;}
 .carousel-indicators .active {
 background: #428bca;
 }
+.info-container{
+    padding: 10px;
+    background: #F1F1F1;
+    border: 1px solid #B8B5B5;
+    border-radius: 4px !important;
+    margin-top: -25px;
+    box-shadow: inset 0px 0px 24px #C7C1C1;
+}

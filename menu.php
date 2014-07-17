@@ -17,7 +17,7 @@
 		</div>
 	</div>
 </div>
-<div class="row">
+<div class="row" id="menu-bar">
 	<nav class="navbar navbar-default" role="navigation">
 		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -59,3 +59,4 @@
 		<!-- /.container-fluid -->
 	</nav>
 </div>
+<div id="menu-bar-replace"></div>
