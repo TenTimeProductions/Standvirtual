@@ -267,7 +267,7 @@
         		</div>
         	</div>
 		</div>
-        <div class="col-md-4" style="height:400px;">
+        <div class="col-md-4" style="height:400px; margin-top:60px;">
                         <img src="http://lorempixel.com/660/120/technics/Ads%20for%20this%20site/" height="400px"class="img-responsive img-thumbnail" alt="">
                     </div>
 </div>
