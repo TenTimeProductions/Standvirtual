@@ -224,3 +224,7 @@ pip-log.txt
 *.sublime-workspace
 *.sublime-project
 *.sublime-workspace
+*.sublime-workspace
+*.sublime-project
+*.sublime-project
+standvirtual.sublime-project

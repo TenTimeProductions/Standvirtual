@@ -44,4 +44,6 @@
 		<!-- Css de sliders ion -->
 		<link href="public/css/ion.rangeSlider.css" rel="stylesheet">
 		<link href="public/css/ion.rangeSlider.skinNice.css" rel="stylesheet">
+		<link href="public/css/select2.css" rel="stylesheet">
+		<link href="public/css/select2-bootstrap.css" rel="stylesheet">
 		

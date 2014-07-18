@@ -1,3 +1,6 @@
+<?php 
+	include('config/config.php');
+?>
 	<div class="row row-offcanvas row-offcanvas-right">
 		<div class="sidebar-offcanvas" id="sidebar" role="navigation">
 			<p class="visible-xs">

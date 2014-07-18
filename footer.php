@@ -79,6 +79,9 @@
 		<!-- Panels details.php -->
 		<script src="public/plugins/panels.js" type="text/javascript"></script>
 
+		<!-- Select2 search-bar -->
+		<script src="public/plugins/select2.js" type="text/javascript"></script>
+
 		<script>
 			$(function () {
 				$("[data-toggle='tooltip']").tooltip();
@@ -99,7 +102,7 @@
 					}
 				});
 				$(window).scroll(function () {
-					if ($(this).scrollTop() > 50) {
+					if ($(this).scrollTop() > 150) {
 						$('#back-to-top').fadeIn();
 					} else {
 						$('#back-to-top').fadeOut();
