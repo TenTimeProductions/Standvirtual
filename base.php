@@ -1,4 +1,4 @@
-  <div class="container-fluid" style="background-color:#e8e8e8; margin-left: -15px;">
+  <div class="container-fluid" style="/*background-color:#e8e8e8;*/ margin-left: -15px;">
         <div id="property-listings">
             
             <div class="row">

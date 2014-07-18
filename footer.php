@@ -8,8 +8,7 @@
 		<div id="footer">
 			<div class="container">
 				<div class="row">
-					<h3 class="footertext">About Us:</h3>
-					<br>
+					<hr class="hr-footer" style="margin: 20px 0">
 					<div class="col-md-4">
 						<center>
 							<img src="http://oi60.tinypic.com/w8lycl.jpg" class="img-circle" alt="the-brains">
@@ -75,6 +74,10 @@
 
 		<!-- Versão base dos sliders -->
 		<script src="public/plugins/ion.rangeSlider.js" type="text/javascript"></script>
+		<script src="public/plugins/search.js" type="text/javascript"></script>
+
+		<!-- Panels details.php -->
+		<script src="public/plugins/panels.js" type="text/javascript"></script>
 
 		<script>
 			$(function () {
@@ -111,37 +114,5 @@
 					return false;
 				});
 				$('#back-to-top').tooltip('show');
-				$("#slider-price").ionRangeSlider({
-					min: 0,
-					max: 100000,
-					from: 1000,
-					to: 4000,
-					type: 'double',
-					step: 500,
-					prefix: "€",
-					prettify: true,
-					hasGrid: true
-				});
-				$("#slider-km").ionRangeSlider({
-					min: 0,
-					max: 500000,
-					from: 1000,
-					to: 4000,
-					type: 'double',
-					step: 2500,
-					postfix: " Km",
-					prettify: true,
-					hasGrid: true
-				});
-				$("#slider-year").ionRangeSlider({
-					min: 1970,
-					max: 2014,
-					from: 2000,
-					to: 2010,
-					type: 'double',
-					step: 1,
-					prettify: false,
-					hasGrid: true
-				});
 			});
 		</script>

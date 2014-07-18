@@ -56,10 +56,10 @@
 			<div class="row">
                 <div class="col-md-12">
                 <div class="panel panel-primary">
-                    <div class="panel-heading">
+                    <div class="panel-heading clickable">
                         <h3 class="panel-title">
                             Mais Detalhes</h3>
-                        <span class="pull-right clickable"><i class="glyphicon glyphicon-minus"></i></span>
+                        <span class="pull-right"><i class="glyphicon glyphicon-minus"></i></span>
                     </div>
                     <div class="panel-body">
                         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
@@ -118,7 +118,6 @@
                     <div class="panel-heading">
                         <h3 class="panel-title">
                             Contactar</h3>
-                        <span class="pull-right clickable"><i class="glyphicon glyphicon-minus"></i></span>
                     </div>
                     <div class="panel-body">
                         <div style="text-align:left; text-decoration:none;"><h3><u>Contacte o X</u></h3></div>
@@ -179,7 +178,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                        <img src="http://lorempixel.com/660/120/technics/Ads%20for%20this%20site/" class="img-responsive img-thumbnail" alt="">
+                        <img src="http://lorempixel.com/360/440/technics/Ads%20for%20this%20site/" class="img-responsive img-thumbnail" alt="">
                     </div>
             </div><!-- row -->
 		<!-- related -->
@@ -267,7 +266,7 @@
         		</div>
         	</div>
 		</div>
-        <div class="col-md-4" style="height:400px; margin-top:60px;">
-                        <img src="http://lorempixel.com/660/120/technics/Ads%20for%20this%20site/" height="400px"class="img-responsive img-thumbnail" alt="">
+        <div class="col-md-4" style="margin-top:60px;">
+                        <img src="http://lorempixel.com/250/220/technics/Ads%20for%20this%20site/" height="400px"class="img-responsive img-thumbnail" alt="">
                     </div>
 </div>

@@ -1,6 +1,10 @@
 *{
 	border-radius: 2px !important;
 }
+body{
+    background: #CCC;
+    background-image: url(../img/concrete_wall_3.png);
+}
 .header{
 	padding: 10px;
 	background: #F1F1F1;
@@ -16,8 +20,8 @@
     border-radius: 0 !important;
     background: 
         linear-gradient( 
-            rgba(255, 255, 255, 0.45), 
-            rgba(0, 0, 0, 0.1) 
+            rgba(0, 0, 0, 0), 
+            #fff 
         );
 }
 .hr-footer{

@@ -98,8 +98,9 @@ background: #428bca;
 a.clickable { color: inherit; }
 a.clickable:hover { text-decoration:none; }
 .panel-primary>.panel-heading{
-    background-color:rgba(0, 0, 0, 0.24);
+    background-color: rgba(121, 121, 121, 0.27);
     border-style: none;
+    color: #000;
 }
 .panel{
     border-style: none;
