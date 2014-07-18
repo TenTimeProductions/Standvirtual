@@ -34,7 +34,7 @@
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li class="active">
-						<a href="#"><span class="icomoon-home"></span> Home</a>
+						<a href="index.php"><span class="icomoon-home"></span> Home</a>
 					</li>
 					<li>
 						<a href="#"><span class="icomoon-car"></span> Carros</a>
