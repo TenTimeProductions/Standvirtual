@@ -39,8 +39,8 @@
 
 		<!-- Css de páginas -->
 		<link href="public/css/details.css" rel="stylesheet">
-		<link href="public/css/search_bar.css" rel="stylesheet">
 		<link href="public/css/base.css" rel="stylesheet">
+		<link href="public/css/search_bar.css" rel="stylesheet">
 		<!-- Css de sliders ion -->
 		<link href="public/css/ion.rangeSlider.css" rel="stylesheet">
 		<link href="public/css/ion.rangeSlider.skinNice.css" rel="stylesheet">

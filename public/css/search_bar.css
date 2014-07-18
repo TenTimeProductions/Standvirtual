@@ -1,3 +1,45 @@
+.search-bar-glyphicon { margin-right:10px !important; }
+.search-bar-panel-body { padding:0px; }
+.search-bar-panel-body table tr td { padding-left: 15px }
+.search-bar-panel-body .table {margin-bottom: 0px; }
+.title-make-search{
+  position: absolute;
+  right: 20px;
+  font-size: 13px !important;
+  text-align: left;
+  width: 150px;
+  margin-top: -17px !important;
+  overflow: hidden;
+}
+.remove-option-search{
+  cursor: pointer;
+}
+.panel-default>.panel-heading .badge {
+  color: #F5F5F5;
+  background-color: #868686;
+  -webkit-transition: 0.3s all;
+  -o-transition: 0.3s all;
+  transition: 0.3s all;
+}
+
+.remove-option-search:hover{
+  background-color: #333;
+}
+.panel-default>.panel-heading {
+  -webkit-transition: 0.3s all;
+  -o-transition: 0.3s all;
+  transition: 0.3s all;
+}
+.panel-default>.panel-heading:hover {
+  background: #E4E4E4;
+  cursor: pointer;
+}
+.panel-default>.panel-heading:hover .search-bar-glyphicon{
+  -webkit-transition: 0.3s all;
+  -o-transition: 0.3s all;
+  transition: 0.3s all;
+  margin-left: 5px;
+}
 /*
  * Off Canvas
  * --------------------------------------------------
