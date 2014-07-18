@@ -62,7 +62,7 @@
                         <span class="pull-right clickable"><i class="glyphicon glyphicon-minus"></i></span>
                     </div>
                     <div class="panel-body">
-                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
                             <fieldset><!--Informação Geral-->
                                 <legend>Informação Geral</legend>
                                 <ul>
@@ -74,9 +74,37 @@
                                 </ul>
                             </fieldset> <!--Informação Geral-->
                         </div>
-                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                             <fieldset><!--Multimédia-->
                                 <legend>Multimédia</legend>
+                                <ul>
+                                    <li>Airbags: 4 Airbags</li>
+                                    <li>Alarme</li>
+                                    <li>Função Luzes Coming & Leaving Home</li>
+                                    <li>Imobilizador</li>
+                                </ul>
+                            </fieldset> <!--Multimédia-->
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                            <fieldset><!--Multimédia-->
+                                <legend>Outras</legend>
+                                <ul>
+                                    <li>Computador de Bordo</li>
+                                    <li>Computador</li>
+                                    <li>Função Coming & Leaving Home</li>
+                                    <li>Imobilizador</li>
+                                </ul>
+                            </fieldset> <!--Multimédia-->
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                            <fieldset><!--Multimédia-->
+                                <legend>Extras</legend>
+                                <ul>
+                                    <li>Computador de Bordo</li>
+                                    <li>Computador</li>
+                                    <li>Função Coming & Leaving Home</li>
+                                    <li>Imobilizador</li>
+                                </ul>
                             </fieldset> <!--Multimédia-->
                         </div>
                     </div>
@@ -150,6 +178,9 @@
         </div>
                     </div>
                 </div>
+                <div class="col-md-4">
+                        <img src="http://lorempixel.com/660/120/technics/Ads%20for%20this%20site/" class="img-responsive img-thumbnail" alt="">
+                    </div>
             </div><!-- row -->
 		<!-- related -->
 		<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
@@ -231,11 +262,12 @@
                           <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
                           <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
                         </div><!--.Carousel-->
+
                          
         		</div>
         	</div>
 		</div>
-		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-			
-		</div>
+        <div class="col-md-4" style="height:400px;">
+                        <img src="http://lorempixel.com/660/120/technics/Ads%20for%20this%20site/" height="400px"class="img-responsive img-thumbnail" alt="">
+                    </div>
 </div>
