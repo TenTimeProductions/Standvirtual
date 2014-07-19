@@ -26,3 +26,11 @@ $(document).ready(function () {
     $('.panel-heading span.clickable').click();
     $('.panel div.clickable').click();
 });
+$(document).ready(function(){
+    //FANCYBOX
+    //https://github.com/fancyapps/fancyBox
+    $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+});

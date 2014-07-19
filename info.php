@@ -23,7 +23,9 @@
 			  <!-- Indicators -->
 			  <ol class="carousel-indicators">
 			    <li class="active" data-slide-to="0" data-target="#article-photo-carousel">
-			      <img alt="" src="http://placehold.it/250x180">
+                  <a class="fancybox" rel="ligthbox" href="http://placehold.it/250x180"> 
+			         <img alt="" src="http://placehold.it/250x180">
+                  </a>   
 			    </li>
 			    <li class="" data-slide-to="1" data-target="#article-photo-carousel">
 			      <img alt="" src="http://placehold.it/250x180">

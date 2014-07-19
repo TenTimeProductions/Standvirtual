@@ -11,26 +11,26 @@
 					<hr class="hr-footer" style="margin: 20px 0">
 					<div class="col-md-4">
 						<center>
-							<img src="http://oi60.tinypic.com/w8lycl.jpg" class="img-circle" alt="the-brains">
+							<i class="fa fa-car fa-5x"></i>
 							<br>
-							<h4 class="footertext">Programmer</h4>
-							<p class="footertext">You can thank all the crazy programming here to this guy.<br>
+							<h4 class="footertext">Compre</h4>
+							<p class="footertext">O Nosso site disponibiliza uma grande variadade de carros tanto novos como usados! <br>Faça a sua Escolha!<br>
 						</center>
 					</div>
 					<div class="col-md-4">
 						<center>
-							<img src="http://oi60.tinypic.com/2z7enpc.jpg" class="img-circle" alt="...">
+							<i class="fa fa-dollar fa-5x"></i>
 							<br>
-							<h4 class="footertext">Artist</h4>
-							<p class="footertext">All the images here are hand drawn by this man.<br>
+							<h4 class="footertext">Venda</h4>
+							<p class="footertext">Disponibilizamos de um serviço de anuncios especializados para o seu carro ou outro veiculo a motor! <br>
 						</center>
 					</div>
 					<div class="col-md-4">
 						<center>
-							<img src="http://oi61.tinypic.com/307n6ux.jpg" class="img-circle" alt="...">
+							<i class="fa fa-adn fa-5x"></i>
 							<br>
-							<h4 class="footertext">Designer</h4>
-							<p class="footertext">This pretty site and the copy it holds are all thanks to this guy.<br>
+							<h4 class="footertext">Publique</h4>
+							<p class="footertext">De-se a conhecer, a sua empresa ou qualquer outro serviço é sempre Bem-Vindo!<br>
 						</center>
 					</div>
 				</div>
