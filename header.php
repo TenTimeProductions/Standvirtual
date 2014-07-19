@@ -46,4 +46,4 @@
 		<link href="public/css/ion.rangeSlider.skinNice.css" rel="stylesheet">
 		<link href="public/css/select2.css" rel="stylesheet">
 		<link href="public/css/select2-bootstrap.css" rel="stylesheet">
-		
+		<link href="public/css/jquery.fancybox.js" rel="stylesheet">

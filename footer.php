@@ -74,13 +74,15 @@
 
 		<!-- Versão base dos sliders -->
 		<script src="public/plugins/ion.rangeSlider.js" type="text/javascript"></script>
-		<script src="public/plugins/search.js" type="text/javascript"></script>
-
-		<!-- Panels details.php -->
-		<script src="public/plugins/panels.js" type="text/javascript"></script>
-
+		<!-- Versão base do fancybox -->
+		<script src="public/plugins/jquery.fancybox.js" type="text/javascript"></script>
 		<!-- Select2 search-bar -->
 		<script src="public/plugins/select2.js" type="text/javascript"></script>
+
+		<!-- Details.php -->
+		<script src="public/plugins/panels.js" type="text/javascript"></script>
+		<!-- Search-bar -->
+		<script src="public/plugins/search.js" type="text/javascript"></script>
 
 		<script>
 			$(function () {
